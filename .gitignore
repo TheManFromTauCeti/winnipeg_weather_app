@@ -1,0 +1,8 @@
+/.DS_Store
+/weather.sqlite
+/weatherprocessorapp.log
+/pychache
+__pycache__/db_operations.cpython-39.pyc
+__pycache__/dbcm.cpython-39.pyc
+__pycache__/scrape_weather.cpython-39.pyc
+__pycache__/plot_operations.cpython-39.pyc
